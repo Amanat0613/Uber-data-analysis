@@ -29,9 +29,7 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) of Uber tr
 - **Visual Storytelling:** Used Bar Plots, Box Plots, and Distplots to explain complex mileage distributions to stakeholders.
 
 ## 📂 How to Run
-1. Clone this repository:
-   ```bash
-   git clone : [https://github.com/Amanat0613/Uber-data-analysis.git](https://github.com/Amanat0613/uber-data-analysis.git)
+git clone https://github.com/Amanat0613/Uber-data-analysis.git
 
 ## Developed By Amanat Ansari 
 Linked in : https://www.linkedin.com/in/amanat-ansari-0573773a4
