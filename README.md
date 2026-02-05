@@ -31,5 +31,10 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) of Uber tr
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Amanat0613/uber-data-analysis.git](https://github.com/Amanat0613/uber-data-analysis.git)
+   git clone [https://github.com/Amanat0613/Uber-data-analysis.git]
+
+## Developed By Amanat Ansari 
+Linked in : https://www.linkedin.com/in/amanat-ansari-0573773a4
+E-mail : ansariamanat03@gmail.com
+
 
